@@ -11,27 +11,27 @@ const questions = [
     {
         question: "What is the name of the secondary weapon that all terrorist players start with?",
         optionA: "Desert Eagle",
-        optionB: "V-Bucks",
-        optionC: "R6 points",
-        optionD: "Euro's",
+        optionB: "Glock-9",
+        optionC: "USP-S",
+        optionD: "AK-47",
         correctOption: "optionB"
     },
 
     {
-        question: "What's the name of The Cube ?",
-        optionA: "Donald Trump",
-        optionB: "Kevin",
-        optionC: "Ninja",
+        question: "What is the name of the secondary weapon that all counter terroist players start with?",
+        optionA: "Desert Eagle",
+        optionB: "USP-S",
+        optionC: "Revolver",
         optionD: "Joe mama",
         correctOption: "optionB"
     },
 
     {
-        question: "When came the first Battle Pass ?",
-        optionA: "Season 3",
-        optionB: "Season 1",
-        optionC: "Season 2",
-        optionD: "Season 0",
+        question: "What is the maximum number of players allowed in one game of Counter-Strike Global Offensive?",
+        optionA: "8",
+        optionB: "12",
+        optionC: "10",
+        optionD: "16",
         correctOption: "optionC"
     },
 
