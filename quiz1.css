@@ -251,7 +251,7 @@ input[type=radio]:checked ~ .option {
        height: 80vh;
     }
     .game-details-container h1{
-        font-size: 1rem;
+        font-size: 5rem;
     }
 
     .game-question-container{
@@ -273,6 +273,7 @@ input[type=radio]:checked ~ .option {
         font-size: 1.2rem;
     }
 }
+
 
 
 
