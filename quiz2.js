@@ -1,16 +1,16 @@
 const questions = [
     {
-        question: "When was Fortnite released? ",
-        optionA: "In 2015",
-        optionB: "In 2016",
-        optionC: "In 2017",
-        optionD: "In 2018",
+        question: "What is the name of the map released in Operation Breakout?  ",
+        optionA: "Mirage",
+        optionB: "Vertigo",
+        optionC: "Castle",
+        optionD: "Dust 2",
         correctOption: "optionC"
     },
 
     {
-        question: "What's the in-game currency ?",
-        optionA: "Robux",
+        question: "What is the name of the secondary weapon that all terrorist players start with?",
+        optionA: "Desert Eagle",
         optionB: "V-Bucks",
         optionC: "R6 points",
         optionD: "Euro's",
