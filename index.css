@@ -210,6 +210,7 @@ margin-left: 22%;
   margin-top: 3%;
   border-radius: 10%;
   transition: all 250ms ease-out;
+
  
 }
 
@@ -217,6 +218,7 @@ margin-left: 22%;
   width: 100%;
   height: 60%;
   margin-top: 20%;
+ 
 
 
 }
@@ -258,6 +260,7 @@ border-radius: 8%;
 border-color: #000000;
 background-color: #454444;
 color: white;
+text-decoration: none;
 }
 .buttoncsgo {
 width: 50%;
@@ -268,6 +271,16 @@ border-radius: 8%;
 border-color: #000000;
 background-color: #454444;
 color: white;
+text-decoration: none;
+}
+.linkie{
+  text-decoration: none;
+}
+.buttoncsgo:hover{
+ text-decoration: none;
+}
+.buttonfortnite:hover{
+  text-decoration: none;
 }
 
 
@@ -314,6 +327,7 @@ z-index: -1;
 
 .button-56:hover:after {
 transform: translate(0, 0);
+text-decoration: none;
 }
 
 .button-56:active {
@@ -323,6 +337,7 @@ outline: 0;
 
 .button-56:hover {
 outline: 0;
+text-decoration: none;
 }
 
 @media (min-width: 768px) {
@@ -355,6 +370,7 @@ user-select: none;
 touch-action: manipulation;
 margin-left: 60.4%;
 margin-top: -2.3%;
+
 }
 
 .button-57:after {
@@ -374,15 +390,18 @@ z-index: -1;
 
 .button-57:hover:after {
 transform: translate(0, 0);
+text-decoration: none;
 }
 
 .button-57:active {
 background-color: #ffdeda;
 outline: 0;
+text-decoration: none;
 }
 
 .button-57:hover {
 outline: 0;
+text-decoration: none;
 }
 
 @media (min-width: 768px) {
