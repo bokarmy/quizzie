@@ -544,7 +544,7 @@ color: rgba(0, 0, 0, 0.8);
   opacity: 1;
   animation: pageloadIn .85s;
   animation-fill-mode: forwards;
-  background-color: rgb(160, 219, 230);
+  background-color: rgb(60, 62, 62);
   color: white;
 
   display: flex;
