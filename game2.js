@@ -11,11 +11,19 @@ let availableQuesions = [];
 
 let questions = [
   {
+<<<<<<< HEAD
     question: "bok   ? ",
     choice1: "In 2015",
     choice2: "In 2016",
     choice3: "In 2017",
     choice4: "In 2I018",
+=======
+    question: "What is the most common map?",
+    choice1: "Vertigo",
+    choice2: "Inferno",
+    choice3: "Dust 2",
+    choice4: "Mirage",
+>>>>>>> 7fdec215311a06b5c7c66551f41757cb9f07cd95
     answer: 3
   },
   {
