@@ -11,7 +11,7 @@ let availableQuesions = [];
 
 let questions = [
   {
-    question: "What is the most common map? ",
+    question: "What is the most common map?",
     choice1: "Vertigo",
     choice2: "Inferno",
     choice3: "Dust 2",
