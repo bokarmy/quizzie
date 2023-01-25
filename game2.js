@@ -11,7 +11,7 @@ let availableQuesions = [];
 
 let questions = [
   {
-    question: "When was Fortnite released? ",
+    question: "bok   ? ",
     choice1: "In 2015",
     choice2: "In 2016",
     choice3: "In 2017",
